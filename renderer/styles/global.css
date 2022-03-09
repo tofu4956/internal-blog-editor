@@ -1,9 +1,28 @@
-.main-panel {
-  flex: 1;
+* {
+  padding: 0;
+  margin: 0;
+  line-height: 1.0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
-.mdx-forms {
-  padding: 20px;
-  width: 40%;
-  height: 90%;
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.container {
+  margin: 1em;
+}
+
+.main-panel-outer {
+  
+
+}
+
+.main-panel-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: auto;
 }
