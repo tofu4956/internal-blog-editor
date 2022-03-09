@@ -1,0 +1,9 @@
+.main-panel {
+  flex: 1;
+}
+
+.mdx-forms {
+  padding: 20px;
+  width: 40%;
+  height: 90%;
+}
